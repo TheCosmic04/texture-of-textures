@@ -1,3 +1,7 @@
+#images
+images/input/*
+images/output/*
+
 # Logs
 logs
 *.log
